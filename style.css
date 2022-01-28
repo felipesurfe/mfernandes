@@ -31,7 +31,6 @@
     background: url("background.jpg") no-repeat center center;
     background-size: cover;
     height: 92vh;
-    opacity: 0.8;
   }
   
   .nav-list {
@@ -109,3 +108,5 @@
   .mobile-menu.active .line3 {
     transform: rotate(45deg) translate(-5px, -7px);
   }
+
+  
